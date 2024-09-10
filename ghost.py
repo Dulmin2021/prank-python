@@ -9,6 +9,7 @@ def typing_ghost():
         "You can't escape from me.",
         "I'm watching you.",
         "Did you hear that noise?",
+        "helli again",
     ]
     while True:
         time.sleep(random.uniform(5, 15))  # Random delay between sentences
